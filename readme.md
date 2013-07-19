@@ -13,7 +13,8 @@ We would like you to create a website that allows users to:
 
 * Search for a Title by it's name.
 * Display the titles that match the above criteria.
-* Allow the user to pull up detailed information about a selected title from the list
+* Allow the user to pull up detailed information about a selected title from the list.
+* Look in the email we sent you for any additional requirements (if any).
 
 ## Data
 
@@ -31,4 +32,5 @@ Unless otherwise directed, you have two options for building the website, .Net a
 * Form is as important as function.  If your app works, but is written like a website from 2001, this will be bad.
 * We're suckers for new technologies (i.e. Angular, media queries, MVC 4, Handlebars).
 * Creativity: Don't like our requirements? Feel free to enhance this app as you see fit.
+* Feel free to host the app somewhere (Azure, EC2, AppHarbor, etc)
 
