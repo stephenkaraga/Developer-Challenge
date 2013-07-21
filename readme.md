@@ -22,7 +22,7 @@ The database that contains the title data is provided in 2 forms, Mongo and SQL 
 
 The connect string for the Mongo database is: mongodb://readuser:reader1234@SG-mssmongodev02-874.servers.mongodirector.com:27017/dev-test
 
-The SQL Lite file is in the repository as "db\Titles.sdf"
+The SQL Lite file is in the repository source as "database\Titles.sdf"
 
 ## Code
 Unless otherwise directed, you have two options for building the website, .Net and node.js.  **There is a very good chance we will request you to use a specific framework, so double check the email we sent you to ensure you pick the correct one.**
