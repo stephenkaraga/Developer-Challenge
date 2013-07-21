@@ -20,7 +20,9 @@ We would like you to create a website that allows users to:
 
 The database that contains the title data is provided in 2 forms, Mongo and SQL Lite.  Unless otherwise directed, you can use either one of these for the exercise.  **Each one has the same data, so only choose one.**
 
-The connect string for the Mongo database is: mongodb://readuser:read1234@SG-mssmongodev02-874.servers.mongodirector.com:27017/dev-test
+The connect string for the Mongo database is: mongodb://readuser:reader1234@SG-mssmongodev02-874.servers.mongodirector.com:27017/dev-test
+
+The SQL Lite file is in the repository as "db\Titles.sdf"
 
 ## Code
 Unless otherwise directed, you have two options for building the website, .Net and node.js.  **There is a very good chance we will request you to use a specific framework, so double check the email we sent you to ensure you pick the correct one.**
