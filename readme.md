@@ -18,13 +18,13 @@ We would like you to create a website that allows users to:
 
 ## Data
 
-The database that contains the title data is provided in 3 forms, MongoDB, SQL Server Express, and SQL Lite. Unless otherwise directed, you can use any one of these for the exercise. Each one has the same data, so only choose one.
+The database that contains the title data is provided in 3 forms: MongoDB, SQL Server Express, and SQL Server CE. Unless otherwise directed, you can use any one of these for the exercise. Each one has the same data, so only choose one.
 
 The connect string for the Mongo database is: mongodb://readuser:reader1234@SG-mssmongodev02-874.servers.mongodirector.com:27017/dev-test
 
 The SQL Server Express files are in the repository under "database\SQL Server Express...". Look at Readme.txt for clues for getting your database installed.
 
-The SQL Lite file is in the repository as "database\SQL Lite\Titles.sdf"
+The SQL Server CE file is in the repository as "database\SQL Server CE\Titles.sdf".
 
 ## Code
 Unless otherwise directed, you have two options for building the website, .Net and node.js.  **There is a very good chance we will request you to use a specific framework, so double check the email we sent you to ensure you pick the correct one.**
