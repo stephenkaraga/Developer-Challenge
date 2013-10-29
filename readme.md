@@ -29,7 +29,7 @@ The SQL Server Express files are in the repository under "database\SQL Server Ex
 The SQL Server CE file is in the repository as "database\SQL Server CE\Titles.sdf".
 
 ### HTTP Api
-For mobile candidates, you can find the http api at [http://dc.tbs.io] (http://dc.tbs.io).  
+For mobile candidates, you can find the http api at [http://dc.tbs.io](http://dc.tbs.io)  
 
 
 ## Code
