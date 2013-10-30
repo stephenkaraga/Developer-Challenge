@@ -28,6 +28,11 @@ The SQL Server Express files are in the repository under "database\SQL Server Ex
 
 The SQL Server CE file is in the repository as "database\SQL Server CE\Titles.sdf".
 
+### SQL Server [Azure]
+
+Example connection string: <add name="TitlesEntities" connectionString="data source=tcp:bx8cna5bk0.database.windows.net,1433;initial catalog=Titles;User Id=readuser@bx8cna5bk0;Password=read!234#Q~$;multipleactiveresultsets=True" providerName="System.Data.EntityClient" />
+
+
 ### HTTP Api
 For mobile candidates, you can find the http api at [http://dc.tbs.io](http://dc.tbs.io)  
 
