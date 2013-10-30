@@ -18,7 +18,7 @@ We would like you to build an application that allows users to:
 
 ## Data
 
-The database that contains the title data is provided in 3 forms: MongoDB, SQL Server Express, and SQL Server CE. For mobile applicants, there is also a HTTP api that returns the data as JSON.  Unless otherwise directed, you can use any one of these for the exercise. Each one has the same data, so only choose one.
+The database that contains the title data is provided in 4 forms: MongoDB, SQL Server Express, SQL Server CE and Azure SQL. For mobile applicants, there is also a HTTP api that returns the data as JSON.  Unless otherwise directed, you can use any one of these for the exercise. Each one has the same data, so only choose one.
 
 ### MongoDB
 The connect string for the Mongo database is: mongodb://readuser:reader1234@SG-mssmongodev02-874.servers.mongodirector.com:27017/dev-test
