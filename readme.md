@@ -21,7 +21,7 @@ We would like you to build an application that allows users to:
 The database that contains the title data is provided in 4 forms: MongoDB, SQL Server Express, SQL Server CE and Azure SQL. For mobile applicants, there is also a HTTP api that returns the data as JSON.  Unless otherwise directed, you can use any one of these for the exercise. Each one has the same data, so only choose one.
 
 ### MongoDB
-The connect string for the Mongo database is: mongodb://readuser:reader1234@SG-mssmongodev02-874.servers.mongodirector.com:27017/dev-test
+The connect string for the Mongo database is: mongodb://readonly:turner@ds043348.mongolab.com:43348/dev-challenge
 
 ### SQL Server
 The SQL Server Express files are in the repository under "database\SQL Server Express...". Look at Readme.txt for clues for getting your database installed.
@@ -52,5 +52,3 @@ If you are building an Android app, please include the apk with your submission.
 * We're suckers for new technologies (i.e. Angular, media queries, MVC 4, Handlebars).
 * Creativity: Don't like our requirements? Feel free to enhance this app as you see fit.
 * Feel free to host the app somewhere (Azure, EC2, AppHarbor, etc)
-
-
