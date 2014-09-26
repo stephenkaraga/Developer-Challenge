@@ -23,14 +23,15 @@ The database that contains the title data is provided in 4 forms: MongoDB, SQL S
 ### MongoDB
 The connect string for the Mongo database is: mongodb://readonly:turner@ds043348.mongolab.com:43348/dev-challenge
 
-### SQL Server
+### SQL Server [Cloud Hosted]
+
+Example connection string: <add name="TitlesEntities" connectionString="Data Source=tcp:bx8cna5bk0.database.windows.net,1433;Initial Catalog=Titles;User Id=readuser@bx8cna5bk0;Password=read!234#Q~$;MultipleActiveResultSets=True" ProviderName="System.Data.EntityClient" />
+
+
+### SQL Server [Requires Install]
 The SQL Server Express files are in the repository under "database\SQL Server Express...". Look at Readme.txt for clues for getting your database installed.
 
 The SQL Server CE file is in the repository as "database\SQL Server CE\Titles.sdf".
-
-### SQL Server [Azure]
-
-Example connection string: <add name="TitlesEntities" connectionString="data source=tcp:bx8cna5bk0.database.windows.net,1433;initial catalog=Titles;User Id=readuser@bx8cna5bk0;Password=read!234#Q~$;multipleactiveresultsets=True" providerName="System.Data.EntityClient" />
 
 
 ### HTTP Api
