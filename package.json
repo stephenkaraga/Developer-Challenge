@@ -1,0 +1,19 @@
+{
+  "name": "developer-challenge",
+  "version": "1.0.0",
+  "description": "Thanks for being interested in a job at Turner Broadcasting.  You will have 24 hours from receipt of this document to:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenkaraga/Developer-Challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenkaraga/Developer-Challenge/issues"
+  },
+  "homepage": "https://github.com/stephenkaraga/Developer-Challenge#readme"
+}
