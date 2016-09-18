@@ -10,7 +10,7 @@ const order = {
 };
 
 ReactDOM.render(
-    <CartItem title={order.title} 
+    <Title title={order.title} 
               image={order.image} 
               initialQty={order.initialQty}
               price={order.price}/>,
