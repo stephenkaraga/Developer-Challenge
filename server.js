@@ -35,7 +35,7 @@ app.set('view engine', 'ejs');
 // });
 
 
-app.use(express.static(__dirname));
+// app.use(express.static(__dirname));
 
 app.use(function(req,res,next){
     req.db = db;
@@ -46,7 +46,7 @@ app.use(function(req,res,next){
 app.use(bodyParser.urlencoded());
 
 app.use(bodyParser.json());
-var globalObj = {}
+var globalObj = {};
 const titles = db.get('Titles'); 
   // res.render('index'); 
   titles.find({}, function(e,docs){
