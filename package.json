@@ -22,6 +22,7 @@
   "homepage": "https://github.com/stephenkaraga/Developer-Challenge#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
+    "browserify": "^13.1.0",
     "ejs": "^2.5.2",
     "express": "^4.14.0",
     "material-ui": "^0.15.4",

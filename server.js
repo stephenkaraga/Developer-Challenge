@@ -61,6 +61,8 @@ app.get('/', function(req, res, next) {
   res.render('index', {docs:globalObj.docs});
 });
 
+
+
 app.listen(port, function(){
     console.log('Server is listening on: %s', port);
 });
